@@ -1,0 +1,16 @@
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\LatihanNotesApp.exe.config
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\LatihanNotesApp.exe
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\LatihanNotesApp.pdb
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\EntityFramework.dll
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\EntityFramework.xml
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.csproj.AssemblyReference.cache
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.NotesForm.resources
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.NotesUserControl.resources
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.Properties.Resources.resources
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.csproj.GenerateResource.cache
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.csproj.CoreCompileInputs.cache
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.csproj.CopyComplete
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.exe
+D:\Coding\C#\FormApps\LatihanNotesApp\LatihanNotesApp\obj\Debug\LatihanNotesApp.pdb
